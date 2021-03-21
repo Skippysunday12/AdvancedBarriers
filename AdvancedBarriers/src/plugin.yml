@@ -1,0 +1,16 @@
+main: me.Skippysunday12.AdvancedBarriers.AdvancedBarriers
+name: AdvancedBarriers
+author: Skippysunday12
+version: 1.0
+api-version: 1.13
+
+commands:
+  barrierstick:
+    permission: AdvancedBarriers.barrierstick
+    permission-message: You do not have perms!
+    description: Gives you the stick for placing advanced barriers
+    
+  clearbarriers:
+    permission: AdvancedBarriers.clearbarrieres
+    permission-message: You do not have perms!
+    description: Clear all barriers that have been placed
