@@ -1,0 +1,27 @@
+Skippysunday Plugin License
+Version 1, March 2021
+Copyright (C) 2021 <Skippysunday#8169(Discord)>
+
+"I" "Me" "My" "Skippysunday" or "Skippysunday12" refers to anything I, Skippysunday/Skippysunday12, have created myself. It does not apply to any changes you have made.
+
+Everyone is allowed to change or modify this is any way, and make it their own. Creativity is encouraged, so make it your own if you want. 
+
+The only thing is, give me credit for my base project, whatever it may be. The prefered way to properly give credit would be to leave a link to the project page on spigotmc.org, 
+and to leave my name with it. An appropriate way to do this would be:
+
+Original project by Skippysunday12
+<project page link here>
+
+
+
+I am not responsible for any damage or issues the software may cause on by your use. The project is thourougly tested before any sort of release is made, so any major issues are completely
+your fault.
+
+These licenses sum it up nicely. Anything that is in them also applies here:
+1. WTFPL License: http://www.wtfpl.net/txt/copying/
+2. DBaD license: http://dbad-license.org/
+
+One last things:
+
+USE COMMON SENSE!! FOR THE LOVE OF EVERYTHING ON EARTH just use COMMON SENSE! Why does this need to be long and boring like GPL, just use common sense. Just credit me, and do whatever
+you want!
