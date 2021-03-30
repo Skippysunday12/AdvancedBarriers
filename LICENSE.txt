@@ -17,6 +17,10 @@ Original project by Skippysunday12
 I am not responsible for any damage or issues the software may cause on by your use. The project is thourougly tested before any sort of release is made, so any major issues are completely
 your fault.
 
+Note: The spigotmc page for this project and this github repo are THE ONLY OFFICIAL SOURCES FOR THE ORIGINAL PROJECT! No other places offer the official code, so anyone claiming they are official are FRAUD. Please report them.
+
+This project is to always remain free, and no person, company, or anything in general are allowed to prevent people from modifying the software to their own needs, or stop people from being free to do what they want.
+
 These licenses sum it up nicely. Anything that is in them also applies here:
 1. WTFPL License: http://www.wtfpl.net/txt/copying/
 2. DBaD license: http://dbad-license.org/
