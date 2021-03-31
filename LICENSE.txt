@@ -1,16 +1,16 @@
 Skippysunday Plugin License
-Version 1, March 2021
+Version 1.2, March 2021
 Copyright (C) 2021 <Skippysunday#8169(Discord)>
 
 "I" "Me" "My" "Skippysunday" or "Skippysunday12" refers to anything I, Skippysunday/Skippysunday12, have created myself. It does not apply to any changes you have made.
 
 Everyone is allowed to change or modify this is any way, and make it their own. Creativity is encouraged, so make it your own if you want. 
 
-The only thing is, give me credit for my base project, whatever it may be. The prefered way to properly give credit would be to leave a link to the project page on spigotmc.org, 
-and to leave my name with it. An appropriate way to do this would be:
+The only thing is, give me credit for my base project, whatever it may be. The best way to properly give credit would be to leave a link to the project page on spigotmc.org or the github repo, 
+and to leave my name with it. This is the best way for you to do it:
 
 Original project by Skippysunday12
-<project page link here>
+<project page link or this github repo link here>
 
 
 
@@ -29,3 +29,5 @@ One last things:
 
 USE COMMON SENSE!! FOR THE LOVE OF EVERYTHING ON EARTH just use COMMON SENSE! Why does this need to be long and boring like GPL, just use common sense. Just credit me, and do whatever
 you want!
+
+That wasn't so bad was it?
